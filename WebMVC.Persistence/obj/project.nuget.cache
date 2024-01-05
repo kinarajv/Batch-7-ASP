@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5LH3Kc5kU+xM2Sez6zbIK7gMiXBwGvF0RtGgVc3HfRs2GlZPE0dqwwMalr2rg11u2qH2Gn5E9r7wbzKJnZ9I4Q==",
+  "dgSpecHash": "AtSPvb5EDGiSIo9JdO3zR13XtccvX7prQSuka4FAJXdyouxUylh3gruCosuiIFyjb9pQFwz3TAT+vXRqVOJXmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebMVC.Persistence\\WebMVC.Persistence.csproj",
+  "projectFilePath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebMVC.Persistence\\WebMVC.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.14\\microsoft.data.sqlite.core.7.0.14.nupkg.sha512",
@@ -31,7 +31,10 @@
     "C:\\Users\\kinar\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\kinar\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

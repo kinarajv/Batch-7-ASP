@@ -70,3 +70,4 @@ C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC\bin\Debug\net7.0\We
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC\bin\Debug\net7.0\WebMVC.Persistence.dll
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC\bin\Debug\net7.0\WebMVC.Models.pdb
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC\bin\Debug\net7.0\WebMVC.Persistence.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC\obj\Debug\net7.0\WebMVC.sourcelink.json

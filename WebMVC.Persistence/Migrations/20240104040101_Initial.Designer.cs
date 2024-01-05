@@ -11,8 +11,8 @@ using WebMVC.Data;
 namespace WebMVC.Persistence.Migrations
 {
     [DbContext(typeof(MyDatabase))]
-    [Migration("20240104022211_Initial Migrations")]
-    partial class InitialMigrations
+    [Migration("20240104040101_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

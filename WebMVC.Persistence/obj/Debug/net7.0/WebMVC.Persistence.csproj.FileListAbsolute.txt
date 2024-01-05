@@ -15,3 +15,4 @@ C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Persistence\obj\Deb
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Persistence\obj\Debug\net7.0\ref\WebMVC.Persistence.dll
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Persistence\bin\Debug\net7.0\WebMVC.Persistence.runtimeconfig.json
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Persistence\obj\Debug\net7.0\WebMVC.Persistence.genruntimeconfig.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Persistence\obj\Debug\net7.0\WebMVC.Persistence.sourcelink.json

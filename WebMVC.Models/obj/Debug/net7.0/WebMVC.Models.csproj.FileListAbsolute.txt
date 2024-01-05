@@ -1,7 +1,6 @@
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\bin\Debug\net7.0\WebMVC.Models.deps.json
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\bin\Debug\net7.0\WebMVC.Models.dll
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\bin\Debug\net7.0\WebMVC.Models.pdb
-C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\net7.0\WebMVC.Models.csproj.AssemblyReference.cache
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\net7.0\WebMVC.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\net7.0\WebMVC.Models.AssemblyInfoInputs.cache
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\net7.0\WebMVC.Models.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\ne
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\net7.0\refint\WebMVC.Models.dll
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\net7.0\WebMVC.Models.pdb
 C:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\net7.0\ref\WebMVC.Models.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Batch 7 ASP\WebMVC.Models\obj\Debug\net7.0\WebMVC.Models.sourcelink.json

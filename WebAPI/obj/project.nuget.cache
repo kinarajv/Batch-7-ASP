@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HNNmkso9cC1hDPWZxf8Cor92IeSeCWr+oB178Fsnh2F2njg6H03Q6ySQyLncmwNWoCE18NMh+9jPoyyHWyhJRQ==",
+  "dgSpecHash": "/GSqj3Ya44qAydTRjx2mHDw9EUSfiNio1oO4GkMctpInNkSqXMOaof5jasgi2pl+Sdw8BxBnpDBYLOogr1aDww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -41,7 +41,11 @@
     "C:\\Users\\kinar\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\kinar\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

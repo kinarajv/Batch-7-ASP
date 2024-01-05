@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "V6Ff398vF2yqS1DSzvUvDhzNoWv5LaLg4oS1jVZjY/G5w4jG/nhaK47jzu/L/G3OCadVzNNe6u7zolzKZ2KoaQ==",
+  "dgSpecHash": "Kqm2MAFnLwl0mzbRNRZLdzOhDRphilkeqo/BsWRdO14pjTko66ZPgBagp5zqdPKwJNjzCeb1WUU4CmA0nkeGiQ==",
   "success": true,
   "projectFilePath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebMVC.Models\\WebMVC.Models.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

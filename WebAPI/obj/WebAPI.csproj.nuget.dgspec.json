@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj": {}
+    "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj": {
+    "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
+        "projectPath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\obj\\",
+        "outputPath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -80,6 +80,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -88,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
