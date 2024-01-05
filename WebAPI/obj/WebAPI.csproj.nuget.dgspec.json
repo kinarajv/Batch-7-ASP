@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj": {}
+    "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj": {
+    "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
+        "projectPath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\obj\\",
+        "outputPath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 7 ASP\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

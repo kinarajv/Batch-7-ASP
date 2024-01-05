@@ -12,16 +12,26 @@ namespace WebAPI.Controllers;
 public class CategoryController : BaseAPIController
 {
 	private readonly MyDatabase _db;
-    private readonly IMapper _map;
+	private readonly IMapper _map;
 	public CategoryController(MyDatabase myDatabase, IMapper map) 
 	{
-        _map = map;
+		_map = map;
 		_db = myDatabase;
 	}
-	[HttpGet] //localhost:port/api/category/
-	public async Task<IActionResult> GetCategory() 
+	[HttpGet]
+	[Route("name")]
+	//localhost:port/api/category/name
+	public async Task<IActionResult> GetCategory([FromQuery] string contain) 
 	{
-		List<Category> categories = await _db.Categories.ToListAsync();
+		IQueryable<Category> categories;
+		if(!String.IsNullOrEmpty(contain)) 
+		{
+			categories = _db.Categories.Where(c => c.CategoryName.Contains(contain));
+		} 
+		else 
+		{
+			categories = _db.Categories;
+		}
 		if(categories.Count() == 0) 
 		{
 			return NotFound();
