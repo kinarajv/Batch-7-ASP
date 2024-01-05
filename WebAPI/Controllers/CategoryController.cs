@@ -20,7 +20,6 @@ public class CategoryController : BaseAPIController
 	}
 	[HttpGet]
 	[Route("name")]
-	//localhost:port/api/category/name
 	public async Task<IActionResult> GetCategory([FromQuery] string contain) 
 	{
 		IQueryable<Category> categories;
