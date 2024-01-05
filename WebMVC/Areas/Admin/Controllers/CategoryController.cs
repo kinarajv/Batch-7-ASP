@@ -5,7 +5,7 @@ using WebMVC.Models;
 using WebMVC.Persistence.Repository;
 
 namespace WebMVC.Controllers;
-
+[Area("Admin")]
 public class CategoryController : Controller
 {
 	private readonly ICategoryRepository _category;	

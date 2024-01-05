@@ -85,3 +85,11 @@ dotnet new mvc
 Model = data layer
 View = front-end
 Controller = logic
+
+
+## Area
+Install tool : dotnet tool install --global dotnet-aspnet-codegenerator --version 7.0.11 
+NuGet Package : Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+dotnet-aspnet-codegenerator area Admin
+dotnet-aspnet-codegenerator area Customer
